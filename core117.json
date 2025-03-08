@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "release_date": "2025-03-07",
+  "about": "On-Core 117 is an automated cPanel software installer for seamless deployment.",
+  "system": {
+    "requirements": {
+      "php": "7.4 or higher",
+      "mysql": "5.7 or higher",
+      "disk_space": "50MB minimum"
+    },
+    "compatibility": [
+      "cPanel",
+      "DirectAdmin",
+      "Plesk"
+    ]
+  },
+  "built": {
+    "developer": "Amaaavl",
+    "website": "https://github.com/amaaavl/on-core117",
+    "email": "amaaavlthevillain@gmail.com"
+  },
+  "logs": [
+    {
+      "version": "1.0",
+      "changes": [
+        "Initial release with secure auto-installation",
+        "Auto file extraction after download",
+        "Domain verification feature"
+      ]
+    }
+  ],
+  "url": {
+    "download": "https://github.com/amaaavl/on-core117/releases/download/v1.0/117-v1.zip"
+  }
+}
