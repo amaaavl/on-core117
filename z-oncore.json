@@ -1,0 +1,39 @@
+{
+  "version": "1.0",
+  "last_version": "0.9",
+  "release_date": "2025-03-07",
+  "about": "Z-Core is an automatic update system that ensures seamless software upgrades with security verification.",
+  "system": {
+    "requirements": {
+      "php": "7.4 or higher",
+      "mysql": "5.7 or higher",
+      "disk_space": "50MB minimum"
+    },
+    "compatibility": [
+      "cPanel",
+      "DirectAdmin",
+      "Plesk"
+    ]
+  },
+  "built": {
+    "developer": "Amaaavl",
+    "website": "https://github.com/amaaavl/on-core117",
+    "email": "amaaavlthevillain@gmail.com"
+  },
+  "updates": {
+    "old_update": {
+      "version": "0.9",
+      "release_date": "2025-02-20"
+    },
+    "new_update": {
+      "version": "1.0",
+      "release_date": "2025-03-07"
+    }
+  },
+  "security": {
+    "domains": {
+      "example.com": "key_12345678",
+      "mywebsite.net": "key_87654321"
+    }
+  }
+}
