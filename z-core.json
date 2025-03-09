@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "last_version": "1.0",
   "release_date": "2025-03-07",
   "about": "Z-Core is an automatic update system that ensures seamless software upgrades with security verification.",
@@ -9,7 +9,7 @@
       "release_date": "2025-03-07"
     },
     "new_update": {
-      "version": "1.1",
+      "version": "1.2",
       "release_date": "2025-03-10",
       "download": "https://your-url-to/z-core-1.1.zip"
     }
