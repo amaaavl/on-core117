@@ -22,11 +22,11 @@
   },
   "updates": {
     "old_update": {
-      "version": "0.9",
+      "version": "1.0",
       "release_date": "2025-02-20"
     },
     "new_update": {
-      "version": "1.0",
+      "version": "1.1",
       "release_date": "2025-03-07"
     }
   },
